@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://team-todait.github.io/sitemap.xml 
+Sitemap: http://team.todait.com/sitemap.xml 
